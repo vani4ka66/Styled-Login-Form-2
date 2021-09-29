@@ -1,10 +1,10 @@
 import "./App.css";
-import Card from './components/Card'
+import Form from './components/form'
 
 function App() {
   return (
     <div className="App">
-      <Card />
+      <Form />
       <section class="hero">
         <div class="hero-body">
           <p class="title">A React Task</p>
